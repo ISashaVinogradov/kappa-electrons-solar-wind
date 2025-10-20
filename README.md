@@ -7,8 +7,6 @@ This repository contains the Python notebook and supporting code for the article
 
 ## Contents
 - `notebooks/`: Jupyter notebooks reproducing the main equations and figures.
-- `src/`: Supporting Python functions and model routines.
-- `data/`: Example input files (if applicable).
 
 ## Usage
 Open the Jupyter notebook and run all cells to reproduce the results discussed in the paper.
